@@ -11,7 +11,7 @@ Top-performing employees like Sargit Chand, Elpidia Ritter, and Carol Adams cont
 
 
  
-![Dashboard_upload](https://github.com/VedantNarkhede5/Power-BI-Porject/blob/main/Powerbi%20Screenshort.png)
+![Dashboard_upload](https://github.com/VedantNarkhede5/Power-BI-Porject/blob/main/Flipkart%20Screenshort.PNG)
 
 
 
