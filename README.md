@@ -7,6 +7,13 @@ The Amazon Global Sales Dashboard (2012–2015) provides a clear summary of Amaz
 
 Top-performing employees like Sargit Chand, Elpidia Ritter, and Carol Adams contribute significantly to profits, while high-return product codes such as OSF-BI-4821 and TEC-PHI-3807 indicate areas for quality review. A global sales map highlights strong presence in North America, Europe, and Asia. Overall, the dashboard helps Amazon identify improvement areas, track performance, reduce returns, and support data-driven decisions to enhance service and efficiency.
 
+# Snapshot of Dashboard (Power BI Service)
+
+
+ 
+![Dashboard_upload](https://github.com/VedantNarkhede5/Power-BI-Porject/blob/main/Powerbi%20Screenshort.png)
+
+
 
 ### Steps followed 
 
@@ -88,12 +95,6 @@ Another showing the company’s tagline
 
 Step 13: A Rectangle shape was inserted as a design element and the company logo was added using the Insert > Image option.
 
-
-# Snapshot of Dashboard (Power BI Service)
-
-
- 
-![Dashboard_upload](https://github.com/VedantNarkhede5/Power-BI-Porject/blob/main/Powerbi%20Screenshort.png)
 
 # Insights
 
