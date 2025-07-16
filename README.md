@@ -1,9 +1,9 @@
 
-# Amazon-Dashboard
+# Flipkart-Dashboard
 
 ## Problem Statement
 
-The Amazon Global Sales Dashboard (2012–2015) provides a clear summary of Amazon’s performance across sales, product units, returns, KPIs, and regional data. It shows a sales projection of 18 million and a total of 8,998 product units sold. KPIs reach 31K, with 368 recorded returns. Customer returns are highest in the Consumer segment (51.9%), followed by Corporate (30.6%) and Home Office (17.5%). Region-wise, the highest return rate comes from Asia Pacific (31.95%), then Europe (23.93%), US & Canada (21.81%), LATAM (17.04%), and Africa (5.24%).
+The FlipkartGlobal Sales Dashboard (2012–2015) provides a clear summary of Amazon’s performance across sales, product units, returns, KPIs, and regional data. It shows a sales projection of 18 million and a total of 8,998 product units sold. KPIs reach 31K, with 368 recorded returns. Customer returns are highest in the Consumer segment (51.9%), followed by Corporate (30.6%) and Home Office (17.5%). Region-wise, the highest return rate comes from Asia Pacific (31.95%), then Europe (23.93%), US & Canada (21.81%), LATAM (17.04%), and Africa (5.24%).
 
 Top-performing employees like Sargit Chand, Elpidia Ritter, and Carol Adams contribute significantly to profits, while high-return product codes such as OSF-BI-4821 and TEC-PHI-3807 indicate areas for quality review. A global sales map highlights strong presence in North America, Europe, and Asia. Overall, the dashboard helps Amazon identify improvement areas, track performance, reduce returns, and support data-driven decisions to enhance service and efficiency.
 
